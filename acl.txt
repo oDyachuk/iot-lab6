@@ -1,0 +1,8 @@
+user admin
+topic readwrite #
+
+user sensor
+topic write home/sensor/#
+
+user lamp
+topic read home/lamp/cmd
